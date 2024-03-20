@@ -14,6 +14,8 @@ import java.util.List;
 @RequestMapping("/api/")
 public class PocketmonController {
 
+    //see written notes for worked out logic
+
     private PocketmonService pocketmonService;
 
     @Autowired
